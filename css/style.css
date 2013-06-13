@@ -5,7 +5,10 @@
 
 }
 /* end main body */
-
+#map_container path {
+    fill: #ffffff;
+    stroke: #000000;
+}
 
 /* start map footer */
 
